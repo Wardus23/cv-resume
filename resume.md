@@ -10,4 +10,4 @@ title: "Резюме"
 - Стажировался в компании "Moneta"
 
 ## Навыки
-- C++, CSS, JavaScript, SQL, NoSQL, Python
+- C++, CSS, JavaScript, SQL, NoSQL, Python и всё остальное
